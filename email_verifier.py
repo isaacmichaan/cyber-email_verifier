@@ -3,7 +3,7 @@ import requests
 
 def email_verify():
 	headers = {
-    		'Authorization': 'bearer 58c15313-37b0-4246-98e7-c6b1f91d4acc',
+    		'Authorization': 'bearer YOUR CODE',
 		}
 	email = input('Enter Email: ')
 	params = {
